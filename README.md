@@ -21,5 +21,10 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(12).pdf" style="text-decoration:none;">Chemoinformatics</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(13).pdf" style="text-decoration:none;">Chemoinformatics and Advanced Machine Learning Perspectives: Complex Computational Methods and Collaborative Techniques</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(14).pdf" style="text-decoration:none;">Tutorials in Chemoinformatics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(15).pdf" style="text-decoration:none;">Practical Chemoinformatics</a></b></li>
+
+
+
  </ul>
 
